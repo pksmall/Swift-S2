@@ -213,7 +213,6 @@
                             <outlet property="delegate" destination="UWK-n8-9qN" id="LDz-X6-Vue"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" title="Tab 3" id="DSY-DI-bVp"/>
                     <navigationItem key="navigationItem" title="Tabel View 1" id="WIE-cb-A6O">
                         <barButtonItem key="backBarButtonItem" title="Back to TB1" id="GBw-C5-Xz4"/>
                         <barButtonItem key="rightBarButtonItem" systemItem="edit" id="Os8-LH-hoX">
@@ -303,7 +302,6 @@
                             <outlet property="delegate" destination="gPx-Mk-KsE" id="fVi-Gx-W7N"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" title="Tab 4" id="Rt9-As-alR"/>
                     <navigationItem key="navigationItem" title="Table View 2" id="7AU-Nu-wrL">
                         <barButtonItem key="backBarButtonItem" title="Back to TB2" id="p98-rv-EPm"/>
                         <barButtonItem key="rightBarButtonItem" systemItem="edit" id="noS-VE-gcp">
